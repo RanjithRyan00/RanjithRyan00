@@ -8,6 +8,7 @@
 
 
 
-![GitHub Contribution Snake](https://github.com/RanjithRyan00/RanjithRyan00/main/output/github-contribution-grid-snake.svg)
+![GitHub Contribution Snake](https://github.com/RanjithRyan00/RanjithRyan00/blob/output/github-contribution-grid-snake.svg)
+
 [![Ranjith github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=RanjithRyan00&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
